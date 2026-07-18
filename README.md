@@ -88,3 +88,17 @@ Created and developed by **Eric Heffner**.
 Copyright © 2026 Eric Heffner. All rights reserved.
 
 This project is publicly viewable for demonstration and evaluation purposes only. No permission is granted to copy, modify, distribute, sublicense, or reuse the project, its design, documentation, branding, or source code without prior written authorization.
+
+## App Screenshots
+
+<p align="center">
+  <img src="Screenshot_20260717-182650.png" alt="Crypto Battle Buddy screen 1" width="260">
+  <img src="Screenshot_20260717-182725.png" alt="Crypto Battle Buddy screen 2" width="260">
+  <img src="Screenshot_20260717-182747.png" alt="Crypto Battle Buddy screen 3" width="260">
+</p>
+
+<p align="center">
+  <img src="Screenshot_20260717-182813.png" alt="Crypto Battle Buddy screen 4" width="260">
+  <img src="Screenshot_20260717-182859.png" alt="Crypto Battle Buddy screen 5" width="260">
+  <img src="Screenshot_20260717-182927.png" alt="Crypto Battle Buddy screen 6" width="260">
+</p>
