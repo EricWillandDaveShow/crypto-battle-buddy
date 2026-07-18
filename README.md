@@ -1,4 +1,8 @@
 # Crypto Battle Buddy
+<p align="center">
+  <img src="CBB%20%281024%20x%201024%20px%29.png" alt="Crypto Battle Buddy logo" width="320">
+</p>
+
 
 **An AI-powered crypto discipline mentor that helps users follow their own plans, resist emotional trading, and learn from the consequences of action or inaction.**
 
