@@ -35,7 +35,9 @@ Crypto Battle Buddy helps users define a deliberate plan before emotion enters t
 
 ## Demo
 
-[Watch the Crypto Battle Buddy demo on YouTube Shorts](https://youtube.com/shorts/--SH3PgSnPc?feature=share).
+## Demo
+
+[Watch the Crypto Battle Buddy demo on YouTube](https://youtube.com/shorts/WsduyCOPs5I?feature=share)
 
 ## Development status
 
